@@ -3,3 +3,8 @@
 Для начала создаем папку на рабочем столе и называем её например "seminar".
 
 Заходим в **Visual Studio Code** и открывает доступ к нашей папке. Затем в проводнике создаем файл с расширением **.md** и называем его например *Education.md*.
+
+Авторизуемся, введя в терминале команды:
+
+* git config --global user.name "your name"
+* git config --global user.email "your e-mail"
