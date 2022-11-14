@@ -8,3 +8,5 @@
 
 * git config --global user.name "your name"
 * git config --global user.email "your e-mail"
+
+Чтобы можно было определить кто всё корректировки при работе в команде над совместным проектом.
